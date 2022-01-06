@@ -1,0 +1,266 @@
+export default {
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Elon Musk: SpaceX faces bankruptcy risk | Business News | Latest English News | WION - WION",
+            "description": "Elon Musk has sounded the alarm for a potential bankruptcy of his space exploration firm SpaceX. The technology entrepreneur has warned SpaceX employees in a...",
+            "url": "https://www.youtube.com/watch?v=NaVREsmXJKY",
+            "urlToImage": "https://i.ytimg.com/vi/NaVREsmXJKY/maxresdefault.jpg",
+            "publishedAt": "2021-12-02T07:28:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Brian Quarmby",
+            "title": "15 crypto leaders make the cut for Forbes 30 Under 30 - Cointelegraph",
+            "description": "Fifteen crypto figures under 30 have made Forbes latest 30 under 30 list, with PleasrDAO founder Emily Yang making the cut for her work in the NFT sector.",
+            "url": "https://cointelegraph.com/news/15-crypto-leaders-make-the-cut-for-forbes-30-under-30",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvODU1Y2UwYmMtMWQ5Ni00MjQ3LWFjY2MtOGVhNTk4NDlkZTM3LmpwZw==.jpg",
+            "publishedAt": "2021-12-02T05:54:32Z",
+            "content": "Forbes has named 15 youthful crypto business leaders on the 2022 edition of its 30 under 30 list.\r\nDespite its misleading name, the annual Forbes 30 under 30 list is actually comprised of 600 people … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Elliot Smith, Holly Ellyatt",
+            "title": "European markets retreat as omicron Covid variant fears return; Stoxx 600 down 1.2% - CNBC",
+            "description": "European stocks pulled back on Thursday as concerns persisted over the omicron Covid variant.",
+            "url": "https://www.cnbc.com/2021/12/02/european-markets-troubled-as-omicron-covid-variant-fears-return.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106982149-1638276010977-gettyimages-1236905877-AFP_9TN3CJ.jpeg?v=1638276079",
+            "publishedAt": "2021-12-02T05:45:35Z",
+            "content": "LONDON European stocks pulled back on Thursday as concerns persisted over the omicron Covid variant.The pan-European Stoxx 600 fell 1.2% in early trade, with tech stocks shedding 2.6% to lead losses … [+1652 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Dorsey-led Square rebrands to Block in nod to blockchain - Reuters",
+            "description": "Square Inc <a href=\"https://www.reuters.com/companies/SQ.N\" target=\"_blank\">(SQ.N)</a>, the payments company led by Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> co-founder Jack Dorsey, said on Wednesday it was ch…",
+            "url": "https://www.reuters.com/technology/dorsey-led-square-rebrands-block-2021-12-01/",
+            "urlToImage": "https://www.reuters.com/resizer/dC4kPqSJw1LATevpBgH4v8tsmxE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X5CKUB42D5LGLGWG2BJEKMB5IY.jpg",
+            "publishedAt": "2021-12-02T05:00:00Z",
+            "content": "Dec 1 (Reuters) - Square Inc (SQ.N), the payments company led by Twitter Inc (TWTR.N) co-founder Jack Dorsey, said on Wednesday it was changing its name to Block Inc, as it looks to expand beyond its… [+2153 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Asian shares tick up but Omicron worries leave markets on edge - Reuters",
+            "description": "Asian shares edged higher in choppy trading on Thursday, helped by advances in Chinese real estate shares, though fears about the Omicron variant of the new coronavirus capped gains regionally.",
+            "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-2021-12-02/",
+            "urlToImage": "https://www.reuters.com/resizer/Icy5HAS5_VmXfj04xaDfIm2gTQg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNWNFKBKW5MTRF3MLSSOOMRLW4.jpg",
+            "publishedAt": "2021-12-02T02:42:00Z",
+            "content": "HONG KONG, Dec 2 (Reuters) - Asian shares edged higher in choppy trading on Thursday, helped by advances in Chinese real estate shares, though fears about the Omicron variant of the new coronavirus c… [+3632 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "Digital World Acquisition Corp. shares jump 24% after report of $1 billion fundraising target - MarketWatch",
+            "description": "Shares in Digital World Acquisition Corp. undefined, a special-purpose acquisition company that has agreed to merge with a media property being developed by...",
+            "url": "https://www.marketwatch.com/story/digital-world-acquisition-corp-shares-jump-24-after-report-of-1-billion-fundraising-target-2021-12-01",
+            "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+            "publishedAt": "2021-12-02T01:51:00Z",
+            "content": "Shares in Digital World Acquisition Corp. \r\n DWAC,\r\n +7.15%\r\n,\r\n a special-purpose acquisition company that has agreed to merge with a media property being developed by former President Donald Trump,… [+1163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Thomas Barrabi",
+            "title": "Disney names Susan Arnold to succeed Bob Iger as board chair - Fox Business",
+            "description": "Disney has tapped Susan Arnold to replace the outgoing Bob Iger as its board chair, the company announced on Wednesday.",
+            "url": "https://www.foxbusiness.com/markets/disney-susan-arnold-succeed-bob-iger-board-chair",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/12/0/0/Disney-logo.jpg?ve=1&tl=1",
+            "publishedAt": "2021-12-02T01:48:58Z",
+            "content": "Disney has tapped Susan Arnold to replace the outgoing Bob Iger as its board chair, the company announced on Wednesday.\r\nArnold will take over the role when Iger formally exits Disney on Dec. 31, acc… [+2397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "Marcus Lamb, founder of Daystar Television Network, dies after getting COVID-19 - NPR",
+            "description": "Lamb founded the conservative Christian Daystar Television Network. The network's programs have featured vaccine skeptics and health care professionals who promote alternative COVID-19 treatments.",
+            "url": "https://www.npr.org/2021/12/01/1060699340/marcus-lamb-daystar-television-network-dies-covid",
+            "urlToImage": "https://media.npr.org/assets/img/2021/12/01/ap21335823803238_wide-4fef66d9479f0df41d220aedd99e0d36ff1fca77.jpg?s=1400",
+            "publishedAt": "2021-12-02T01:46:24Z",
+            "content": "Marcus Lamb, the CEO and founder of the conservative Christian Daystar Television Network who was outspoken against COVID-19 vaccines, has died at age 64 after contracting the virus.\r\nAP\r\nDALLAS Marc… [+1289 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CryptoPotato"
+            },
+            "author": "Dimitar Dzhondzhorov",
+            "title": "Bank of America: The Metaverse Is a Massive Opportunity for The Crypto Industry - CryptoPotato",
+            "description": "Haim Israel is keen on the metaverse and thinks it will boost the cryptocurrency universe to another level.",
+            "url": "https://cryptopotato.com/bank-of-america-the-metaverse-is-a-massive-opportunity-for-the-crypto-industry/",
+            "urlToImage": "https://cryptopotato.com/wp-content/uploads/2021/07/BankofAmerica.jpg",
+            "publishedAt": "2021-12-02T01:35:37Z",
+            "content": "Haim Israel a strategist at Bank of America believes the metaverse will create huge opportunities for blockchain technology. It will also cause digital assets to start being employed widely for finan… [+2606 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tim Fitzsimons",
+            "title": "Debt collectors can use social media to reach borrowers - NBC News",
+            "description": "Debt collectors can now use social media to send direct messages to borrowers who owe, the Consumer Financial Protection Bureau has ruled.",
+            "url": "https://www.nbcnews.com/news/us-news/debt-collectors-can-use-social-media-reach-borrowers-rcna7322",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211201-calif-cellphone-user-ac-451p-336f62.jpg",
+            "publishedAt": "2021-12-02T01:10:00Z",
+            "content": "Debt collectors can now use social media to send direct messages to borrowers who owe, the Consumer Financial Protection Bureau has ruled.\r\nThe agency says the updated rule, proposed last year and en… [+1548 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ron Miller",
+            "title": "4 analysts break down Bret Taylor's pretty sweet week - TechCrunch",
+            "description": "Bret Taylor finds himself in a unique position in Silicon Valley: in just one week at age 42, he's accepted substantial positions at two tech powerhouses.",
+            "url": "http://techcrunch.com/2021/12/01/3-analysts-break-down-bret-taylors-pretty-sweet-week/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/Dreamforce_2018_Bret_Taylor.jpg?w=600",
+            "publishedAt": "2021-12-02T00:54:13Z",
+            "content": "For even a casual observer of the tech industry, it’s been a good week for Bret Taylor: He was named board chair at Twitter on Monday, and yesterday, he became the co-CEO and co-chair at a SaaS compa… [+1014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Cramer's lightning round: - CNBC Television",
+            "description": "(OPTIMIZED VIDEO SPECIFIC DESCRIPTION)» Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision» Subscribe to CNBC: https://cnb.cx/SubscribeCNBC» Subscr...",
+            "url": "https://www.youtube.com/watch?v=d3GIeSSP1Xg",
+            "urlToImage": "https://i.ytimg.com/vi/d3GIeSSP1Xg/maxresdefault.jpg",
+            "publishedAt": "2021-12-02T00:48:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Charts suggest stocks may fall further before powerful 'Santa Claus rally' kicks in, says Cramer - CNBC Television",
+            "description": "Charts suggest there may be more pain on Wall Street before the stock market recovers for a year-end \"Santa Claus rally,\" CNBC's Jim Cramer said on Wednesday...",
+            "url": "https://www.youtube.com/watch?v=h8yiRVuxQBg",
+            "urlToImage": "https://i.ytimg.com/vi/h8yiRVuxQBg/maxresdefault.jpg",
+            "publishedAt": "2021-12-02T00:34:11Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Joseph Choi",
+            "title": "Warren calls on big banks to follow Capital One in ditching overdraft fees | TheHill - The Hill",
+            "description": "Following Capital One's announcement that it would be dropping overdraft fees, Sen. Elizabeth War...",
+            "url": "https://thehill.com/homenews/senate/583922-warren-calls-on-big-banks-to-follow-capital-one-in-ditching-overdraft-fees",
+            "urlToImage": "https://thehill.com/sites/default/files/warrenelizabeth_113021gn_lead.jpg",
+            "publishedAt": "2021-12-02T00:29:45Z",
+            "content": "Following Capital One's announcement that it would be dropping overdraft fees, Sen. Elizabeth WarrenElizabeth WarrenSenate GOP blocks defense bill, throwing it into limboRestless progressives eye 202… [+2534 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Lori Aratani",
+            "title": "U.S. airports will aid effort to monitor omicron variant - The Washington Post",
+            "description": "It's part of stepped-up efforts to monitor international arrivals amid growing concerns about the omicron variant.",
+            "url": "https://www.washingtonpost.com/transportation/2021/12/01/us-airports-omicron-variant/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RBPM7SCSCMI6ZA6S3HNLBYR3PY.jpg&w=1440",
+            "publishedAt": "2021-12-02T00:24:51Z",
+            "content": "The effort by the Centers for Disease Control and Prevention is among the latest this week to address the threat of a variant that has caused global alarm, with the first U.S. case confirmed Wednesda… [+4033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FX Empire"
+            },
+            "author": null,
+            "title": "Natural Gas Price Fundamental Daily Forecast - Aggressive Short-Sellers Set on Driving Out Weak Speculators - FX Empire",
+            "description": "The current downside momentum has put the August 19 bottom at $4.009 on the radar.",
+            "url": "https://www.fxempire.com/forecasts/article/natural-gas-price-fundamental-daily-forecast-aggressive-short-sellers-set-on-driving-out-weak-speculators-825893",
+            "urlToImage": "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2021/11/Natural-Gas-Storage-3.jpg",
+            "publishedAt": "2021-12-02T00:08:00Z",
+            "content": "Short-Term Weather Outlook\r\nAccording to NatGasWeather for December 1 to December 7, Cool air lingers across the Great Lakes with chilly lows of 10s to 30s. However, most of the rest of the U.S. will… [+1231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jim Cramer says it's time to start buying some Disney, PayPal and Mastercard - CNBC Television",
+            "description": "On Wednesday's episode of \"Mad Money,\" host Jim Cramer explained why he believes investors should start to buy some shares of Disney, PayPal and Mastercard a...",
+            "url": "https://www.youtube.com/watch?v=0c9m-ftwXLs",
+            "urlToImage": "https://i.ytimg.com/vi/0c9m-ftwXLs/maxresdefault.jpg",
+            "publishedAt": "2021-12-02T00:06:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Cryptocurrency executives to be questioned in Congress - BBC News",
+            "description": "Washington is joining other governments in scrutinising the rapidly expanding sector more closely.",
+            "url": "https://www.bbc.com/news/business-59496509",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/137A5/production/_121918797_gettyimages-1235968731.jpg",
+            "publishedAt": "2021-12-02T00:02:25Z",
+            "content": "Image source, Getty Images\r\nImage caption, Alesia Haas of Coinbase will be amongst witnesses\r\nExecutives of eight major cryptocurrency firms have been called to testify before a US congressional comm… [+2372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jessica Rendall",
+            "title": "How to choose a booster shot: What to know about mixing vaccines and the omicron variant - CNET",
+            "description": "With the omicron coronavirus variant now in the US, health officials are urging people to get boosted.",
+            "url": "https://www.cnet.com/health/how-to-choose-a-booster-omicron-variant-can-you-mix-vaccines/",
+            "urlToImage": "https://www.cnet.com/a/img/J_AXAIPbfOOr0rhBJUi-fYSPZHQ=/1200x630/2021/11/30/c56ae8a1-cd43-48c2-8b54-0c77bdb602a8/fully-vaccinated-2-vaccine-syringes-doses-booster-passport-restrictions-mandates-employment-biden-030.jpg",
+            "publishedAt": "2021-12-01T23:52:10Z",
+            "content": "Sarah Tew/CNET\r\nFor the most up-to-date news and information about the coronavirus pandemic, visit the WHO and CDC websites.\r\nOn Wednesday, the US confirmed its first case of the omicron variant in a… [+13419 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Salon"
+            },
+            "author": "Trish Rooney",
+            "title": "As walls closed in on Theranos' Elizabeth Holmes, she turned to Rupert Murdoch - Salon",
+            "description": "Elizabeth Holmes was questioned by prosecutors this week about her communication with the media mogul",
+            "url": "https://www.salon.com/2021/12/01/as-walls-closed-in-on-theranos-elizabeth-holmes-she-turned-to-rupert-murdoch/",
+            "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/12/gettyimages-1181871591.jpg",
+            "publishedAt": "2021-12-01T23:20:00Z",
+            "content": null
+        }
+    ]
+}
